@@ -41,6 +41,6 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/Fiverr-ai-nobody-cares-fiverr-wvPcxKARYQFnCYVU79"  />
+<img align="right" height="150" src="[https://giphy.com/gifs/Fiverr-ai-nobody-cares-fiverr-wvPcxKARYQFnCYVU79](https://www.bing.com/images/search?view=detailV2&ccid=%2fBbbuJp5&id=4D5CF054089A0720D7C45FF4FB9A62B6B1205E81&thid=OIP._BbbuJp5OmYvzWspC1Wk4AHaHa&mediaurl=https%3a%2f%2fprofessionalprograms.mit.edu%2fwp-content%2fuploads%2fblog-post-AI-vs-ML-1024X1024.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fc16dbb89a793a662fcd6b290b55a4e0%3frik%3dgV4gsbZimvv0Xw%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=Machine+Intelligence&simid=608004114263781874&FORM=IRPRST&ck=5D083D3458B53D12F213E8DB5BA598F3&selectedIndex=0&itb=0)"  />
 
 ###
